@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am Stuart!
+
+Data science student at Universiti Kebangsaan Malaysia 🎓
+Interested in natural language processing 🔡 
+Likes sushi 🍣 and chocolate 🍫
 
 <!--
 **cutejoy001/cutejoy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
